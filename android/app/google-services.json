@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "757118032566",
+    "firebase_url": "https://chatflutter-c7e0b-default-rtdb.firebaseio.com",
+    "project_id": "chatflutter-c7e0b",
+    "storage_bucket": "chatflutter-c7e0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757118032566:android:a0071bcffcb2568201a417",
+        "android_client_info": {
+          "package_name": "br.com.gobi.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757118032566-5dnasoj889jr9vckopdvsha8kutndlr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.gobi.chat",
+            "certificate_hash": "0861cc692ddea4417b80da39f297870205006534"
+          }
+        },
+        {
+          "client_id": "757118032566-l02484vldtoh7kp0mqsmi7e3r4pgc4ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMdKjlZIX4g7j0VtE2nC9z8ds6QgStYyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757118032566-l02484vldtoh7kp0mqsmi7e3r4pgc4ma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757118032566-2tq6m73g63202dg4qmf0202pi8v233a5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.gobi.chat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757118032566:android:e33e833f64c6caae01a417",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757118032566-l02484vldtoh7kp0mqsmi7e3r4pgc4ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMdKjlZIX4g7j0VtE2nC9z8ds6QgStYyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757118032566-l02484vldtoh7kp0mqsmi7e3r4pgc4ma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757118032566-2tq6m73g63202dg4qmf0202pi8v233a5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.gobi.chat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757118032566:android:413902dca41bde3701a417",
+        "android_client_info": {
+          "package_name": "com.example.apploja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757118032566-l02484vldtoh7kp0mqsmi7e3r4pgc4ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMdKjlZIX4g7j0VtE2nC9z8ds6QgStYyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757118032566-l02484vldtoh7kp0mqsmi7e3r4pgc4ma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757118032566-2tq6m73g63202dg4qmf0202pi8v233a5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.gobi.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
